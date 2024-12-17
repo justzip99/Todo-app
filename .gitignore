@@ -1,2 +1,8 @@
 .env
-venv/
+.venv/
+__pycache__
+api/__pycache__/
+migrations/__pycache__/
+models/__pycache__/
+schemas/__pycache__/
+settings/__pycache__/
